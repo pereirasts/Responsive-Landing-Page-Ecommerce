@@ -762,7 +762,7 @@ a:hover#shop {
   }
 
   #banner-text h1 {
-    font-size: clamp(0.5vh, 1em + 2vh, 4vh);
+    font-size: 4vh;
   }
 
   #banner-text button {
