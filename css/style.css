@@ -256,8 +256,8 @@ a:hover#shop {
 
 #banner-text button {
   position: absolute;
-  width: 15vw;
-  height: 6vh;
+  width: 16vw;
+  height: 7vh;
   font-weight: 700;
   font-size: 1.8vw;
   line-height: 1.8rem;
@@ -268,6 +268,10 @@ a:hover#shop {
   bottom: 1px;
 }
 
+#banner-text button:hover {
+  color: #2dc071;
+  background: #ffffff;
+}
 /* Fim Banner */
 
 /* Início Departamentos */
