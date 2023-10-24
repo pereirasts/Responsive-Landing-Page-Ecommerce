@@ -761,7 +761,7 @@ a:hover#shop {
     text-shadow: #000 1px 1px 1px;
   }
 
-  #banner-text h1 {
+  h1#banner-text {
     font-size: 3vh;
   }
 
