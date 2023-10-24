@@ -228,7 +228,7 @@ a:hover#shop {
 #banner-text h1 {
   position: absolute;
   font-weight: 700;
-  font-size: clamp(0.28vh, 1em + 4vh, 8vh);
+  font-size: 4vh;
   line-height: 1vw;
   letter-spacing: 0.2px;
   color: #ffffff;
