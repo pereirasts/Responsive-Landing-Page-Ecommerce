@@ -723,7 +723,7 @@ a:hover#shop {
 
 @media (max-width: 450px) {
   html {
-    font-size: 62.5%;
+    font-size: 55%;
   }
 
   .container {
@@ -761,8 +761,8 @@ a:hover#shop {
     text-shadow: #000 1px 1px 1px;
   }
 
-  h1#banner-text {
-    font-size: 3vh;
+  h1.banner-text {
+    font-size: 2.5vh;
   }
 
   #banner-text button {
